@@ -1,6 +1,4 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
-
-![sql.png](sql.png)
+# Employee Database: A Mystery in Two Parts
 
 ## Background
 
@@ -49,7 +47,7 @@ Once you have a complete database, do the following:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Bonus (Optional)
+## Bonus
 
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
@@ -86,17 +84,3 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-## Rubric
-
-[Unit 9 Rubric - SQL Homework - Employee Database: A Mystery in Two Parts](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
-
-- - -
-
-## References
-
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
